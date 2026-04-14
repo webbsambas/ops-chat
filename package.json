@@ -1,0 +1,7 @@
+{
+  "name": "castlink-chat-api",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
