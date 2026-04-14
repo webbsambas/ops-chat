@@ -1,9 +1,4 @@
 {
-  "functions": {
-    "api/ai-chat.ts": {
-      "runtime": "@vercel/node@3"
-    }
-  },
   "headers": [
     {
       "source": "/api/(.*)",
