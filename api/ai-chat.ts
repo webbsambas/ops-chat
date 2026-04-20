@@ -16,7 +16,7 @@ PRODUKTINFO:
 - Installation: Plug-and-play. Para ihop telefonen en gång via Bluetooth, sedan kopplar den upp automatiskt varje gång du startar bilen.
 - Frakt: Fri frakt, 5-10 arbetsdagars leveranstid
 - Garanti: 30 dagars pengarna tillbaka, 1 års tillverkargaranti
-- Support: support@castlink.se
+- Support: castlinksupport@gmail.com
 
 VAD ADAPTERN INTE GÖR (var ärlig):
 - Inte Netflix, YouTube, Spotify som egen app. CarPlay-systemet styr vilka appar som visas
@@ -29,7 +29,7 @@ REGLER:
 - Håll svar korta (max 2-3 meningar)
 - Fokus på produkten. Aldrig fråga om namn, telefonnummer eller e-post
 - Om kunden frågar om Netflix/YouTube: förklara att CarPlay visar telefonens appar, inte egna appar
-- Om du inte vet svaret: "Kontakta oss på support@castlink.se"
+- Om du inte vet svaret: "Kontakta oss på castlinksupport@gmail.com"
 - Var vänlig men direkt. Ingen onödig utfyllnad.`,
 
   // Add new stores here:
